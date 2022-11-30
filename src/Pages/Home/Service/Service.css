@@ -1,0 +1,12 @@
+.container img {
+    height: 300px;
+    width: 100%;
+
+}
+
+.container {
+    border: 1px solid grey;
+    border-radius: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+}

@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Engine Domistcion",
+        "price": "300",
+        "description": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati, labore.",
+        "img": "https://i.ibb.co/VJRNL8X/repair1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "BODY WASH",
+        "price": "100",
+        "description": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati, labore.",
+        "img": "https://images.unsplash.com/photo-1597766353939-9d782bde7a2f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+    },
+    {
+        "id": 3,
+        "name": "WHILE ALIGNMENT",
+        "price": "400",
+        "description": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati, labore.",
+        "img": "https://images.unsplash.com/photo-1568644305664-5c7c2f88fa65?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+    },
+    {
+        "id": 4,
+        "name": "CAR FRAGMENT",
+        "price": "400",
+        "description": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati, labore.",
+        "img": "https://images.unsplash.com/photo-1632733711679-529326f6db12?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+    },
+    {
+        "id": 5,
+        "name": "CAR insensitive",
+        "price": "400",
+        "description": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati, labore.",
+        "img": "https://images.unsplash.com/photo-1602267774924-38124c047174?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+    },
+    {
+        "id": 6,
+        "name": "INGINE RETRIVE",
+        "price": "400",
+        "description": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati, labore.",
+        "img": "https://images.unsplash.com/photo-1625047509168-a7026f36de04?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80"
+    }
+]
